@@ -15,6 +15,7 @@
  */
 
 package com.example.android.navigation
+//Luis Amaral Rodrigues
 
 import android.content.Intent
 import android.os.Bundle
